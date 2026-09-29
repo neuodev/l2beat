@@ -1,0 +1,1 @@
+import{t as e}from"./formatNumber-DfLGMTVt.js";function t(t,n){let r=n?.decimals??2;if(t===0){let e=Math.min(r,2);return`0${e===0?``:`.`}${`0`.repeat(e)}`}return e(t,r)}export{t};

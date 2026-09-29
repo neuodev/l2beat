@@ -1,0 +1,1 @@
+var e=`/garden`,t=`/garden/submit`,n=`/garden/integrate`,r=`/files/garden-submission-questions.md`;export{t as i,n,r,e as t};

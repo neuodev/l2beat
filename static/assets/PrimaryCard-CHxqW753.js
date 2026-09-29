@@ -1,0 +1,1 @@
+import{t as e}from"./index-BzWKptsi.js";import{qn as t,qt as n}from"./SideNavLayout-BkbKX94L.js";var r=e();function i({children:e,className:i,asChild:a,...o}){return(0,r.jsx)(a?n:`div`,{className:t(`group/primary-card primary-card bg-surface-primary p-4 md:rounded-xl md:px-6 md:py-5`,i),...o,children:e})}export{i as t};

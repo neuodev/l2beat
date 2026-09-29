@@ -1,0 +1,1 @@
+import{in as e}from"./SideNavLayout-BkbKX94L.js";function t(t,n){if(!t)return;let r=t.at(0)?.timestamp,i=t.at(-1)?.timestamp;if(r&&i)return[r,i+(n?.bucket?e.periodToSeconds(n.bucket):0)]}export{t};

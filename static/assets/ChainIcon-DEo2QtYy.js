@@ -1,0 +1,1 @@
+import{t as e}from"./index-BzWKptsi.js";var t=e();function n({iconUrl:e,alt:n}){return e?(0,t.jsx)(`img`,{src:e,alt:n,className:`size-4 rounded-sm object-contain`}):(0,t.jsx)(`span`,{className:`size-4 rounded-sm bg-surface-secondary`})}export{n as t};

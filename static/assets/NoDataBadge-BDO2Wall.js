@@ -1,0 +1,1 @@
+import{t as e}from"./index-BzWKptsi.js";import{n as t}from"./SideNavLayout-BkbKX94L.js";var n=e();function r({className:e,size:r=`small`}){return(0,n.jsx)(t,{className:e,type:`gray`,size:r,children:`No data`})}export{r as t};

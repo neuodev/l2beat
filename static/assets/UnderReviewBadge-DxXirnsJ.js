@@ -1,0 +1,1 @@
+import{t as e}from"./index-BzWKptsi.js";var t=e();function n(){return(0,t.jsx)(`span`,{className:`inline-block h-min rounded bg-zinc-700 px-1.5 py-[3px] font-medium text-xs text-yellow-200 leading-none!`,children:`IN REVIEW`})}export{n as t};

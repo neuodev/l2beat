@@ -1,0 +1,1 @@
+import{a as e}from"./dates-Cmn16Ypd.js";function t(t){if(t&&!t.isSynced)return`No Value Secured data since ${e(t.syncedUntil,{mode:`datetime`,longMonthName:!0})}.`}export{t};

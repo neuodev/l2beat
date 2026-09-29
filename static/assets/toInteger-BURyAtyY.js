@@ -1,0 +1,1 @@
+import{t as e}from"./rolldown-runtime-hePW80VL.js";import{i as t}from"./useTable-CvAwLX8T.js";var n=e(((e,n)=>{var r=t();function i(e){var t=r(e),n=t%1;return t===t?n?t-n:t:0}n.exports=i}));export{n as t};

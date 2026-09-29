@@ -1,0 +1,1 @@
+function e(e){if(e===``)throw TypeError(`Invalid ProjectId`);return e}e.ETHEREUM=e(`ethereum`);export{e as t};

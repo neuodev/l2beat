@@ -1,0 +1,1 @@
+import{t as e}from"./index-BzWKptsi.js";var t=e();function n(){return(0,t.jsxs)(`div`,{children:[(0,t.jsx)(`div`,{"data-tf-live":`01K4YW0GP4KT7KB36586RAQ969`}),(0,t.jsx)(`script`,{src:`//embed.typeform.com/next/embed.js`,async:!0})]})}export{n as EthereumConnectPage};

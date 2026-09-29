@@ -1,0 +1,1 @@
+import{t as e}from"./index-BzWKptsi.js";var t=e();function n(e){return(0,t.jsx)(`div`,{className:`fill-secondary! text-secondary! **:fill-secondary! **:text-secondary!`,children:e.children})}function r({isSynced:e,children:r}){return e?r:(0,t.jsx)(n,{children:r})}export{r as t};

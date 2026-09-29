@@ -1,0 +1,1 @@
+import{cn as e}from"./SideNavLayout-BkbKX94L.js";function t(t){switch(t){case`config`:return`This project is under review.`;case`impactful-change`:return`There are impactful changes and part of the information might be outdated.`;default:e(t)}}export{t};

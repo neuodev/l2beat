@@ -1,0 +1,1 @@
+import{t as e}from"./index-BzWKptsi.js";import{qn as t}from"./SideNavLayout-BkbKX94L.js";var n=e();function r({children:e,className:r}){return(0,n.jsx)(`div`,{className:t(`ml-auto text-right font-medium text-xs text-zinc-500 tabular-nums dark:font-normal dark:text-n-zinc-300`,r),children:e})}export{r as t};

@@ -1,0 +1,1 @@
+function e(e){return encodeURIComponent(JSON.stringify(e))}export{e as t};

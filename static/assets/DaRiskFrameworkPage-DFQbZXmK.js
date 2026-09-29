@@ -1,0 +1,1 @@
+import{t as e}from"./index-BzWKptsi.js";var t=e();function n(){return(0,t.jsx)(`iframe`,{src:`https://drive.google.com/file/d/1sV1n8CGmxb96If7ey-qRvdmVXPI-h1aY/preview`,className:`h-screen w-full`})}export{n as DaRiskFrameworkPage};

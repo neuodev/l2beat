@@ -1,0 +1,1 @@
+import{t as e}from"./formatNumber-DfLGMTVt.js";import{t}from"./formatCurrency-Cc0oR37o.js";function n(n,r,i=`total`){return r===`gas`?e(n):t(n,r,{decimals:i===`total`?2:6})}export{n as t};

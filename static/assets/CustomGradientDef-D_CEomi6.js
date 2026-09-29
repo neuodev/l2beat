@@ -1,0 +1,1 @@
+import{t as e}from"./index-BzWKptsi.js";var t=e();function n({id:e,colors:n}){return(0,t.jsxs)(`linearGradient`,{id:e,x1:`0`,y1:`0`,x2:`0`,y2:`1`,children:[(0,t.jsx)(`stop`,{offset:`25%`,stopColor:n.primary,stopOpacity:.8}),(0,t.jsx)(`stop`,{offset:`50%`,stopColor:n.secondary,stopOpacity:.4}),(0,t.jsx)(`stop`,{offset:`100%`,stopColor:n.secondary,stopOpacity:0})]})}export{n as t};

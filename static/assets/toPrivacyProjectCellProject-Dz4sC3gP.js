@@ -1,0 +1,1 @@
+function e(e){return{name:e.name,shortName:e.shortName,slug:e.slug,icon:e.icon,detailsHref:e.href,backgroundColor:e.backgroundColor,description:e.description,quantumResistance:e.quantumResistant?`privacy`:void 0,statuses:{underReview:e.isUnderReview?`config`:void 0,redWarning:e.redWarning}}}export{e as t};

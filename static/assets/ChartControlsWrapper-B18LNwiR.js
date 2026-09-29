@@ -1,0 +1,1 @@
+import{t as e}from"./index-BzWKptsi.js";import{qn as t}from"./SideNavLayout-BkbKX94L.js";var n=e();function r({children:e,className:r}){return(0,n.jsx)(`div`,{className:t(`flex justify-between gap-x-2 gap-y-2 md:gap-x-4`,r),children:e})}export{r as t};

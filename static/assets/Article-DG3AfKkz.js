@@ -1,0 +1,1 @@
+import{t as e}from"./index-BzWKptsi.js";import{qn as t}from"./SideNavLayout-BkbKX94L.js";import{n,t as r}from"./outlinksPlugin-kxmXpgxw.js";var i=e(),a=n({html:!0,typographer:!0}).use(r);function o(e){return(0,i.jsx)(`article`,{className:t(`article`,e.className),dangerouslySetInnerHTML:{__html:a.render(e.children)}})}export{o as t};

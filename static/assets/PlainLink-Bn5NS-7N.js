@@ -1,0 +1,1 @@
+import{t as e}from"./index-BzWKptsi.js";var t=e();function n({allowReferrer:e,...n}){let r=n.href?.startsWith(`http`);return(0,t.jsx)(`a`,{rel:r?e?`noopener`:`noopener noreferrer`:void 0,target:r?`_blank`:void 0,...n})}export{n as t};

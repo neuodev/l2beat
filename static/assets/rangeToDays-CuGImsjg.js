@@ -1,0 +1,1 @@
+import{in as e}from"./SideNavLayout-BkbKX94L.js";function t(t){return t[0]===null?null:Math.floor((t[1]-t[0])/e.DAY)}export{t};

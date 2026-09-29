@@ -1,0 +1,1 @@
+import{in as e}from"./SideNavLayout-BkbKX94L.js";function t(t){return t/e.DAY}export{t};

@@ -1,0 +1,1 @@
+function e(e){return e.startsWith(`0x`)?`${e.slice(0,6)}...${e.slice(-4)}`:e}export{e as t};

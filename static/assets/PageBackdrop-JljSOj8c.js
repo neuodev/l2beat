@@ -1,0 +1,1 @@
+import{t as e}from"./index-BzWKptsi.js";import{qn as t}from"./SideNavLayout-BkbKX94L.js";var n=e();function r({name:e,children:r,className:i}){return(0,n.jsx)(`div`,{"aria-hidden":!0,"data-backdrop":e,className:t(`-z-10 -mb-[100svh] pointer-events-none sticky top-0 h-svh overflow-hidden`,i),children:r})}export{r as t};

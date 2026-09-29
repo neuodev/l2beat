@@ -1,0 +1,1 @@
+var e=(e,t,n=t+`s`)=>[1,-1].includes(Number(e))?t:n;export{e as t};

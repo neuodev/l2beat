@@ -1,0 +1,1 @@
+function e(e,n){let r=t(e.original.stage);if(r===void 0)return-1;let i=t(n.original.stage);return i===void 0||r>i?1:-1}function t(e){let t=e.stage;if(t!==`NotApplicable`&&t!==`UnderReview`)return t===`Stage 0`?e.message?.type===`warning`?0:e.message?.type===`underReview`?1:2:t===`Stage 1`?3:4}export{e as t};

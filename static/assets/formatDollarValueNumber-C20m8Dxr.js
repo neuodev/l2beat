@@ -1,0 +1,1 @@
+import{t as e}from"./formatNumber-DfLGMTVt.js";import{t}from"./formatCurrency-Cc0oR37o.js";function n(e){return t(e,`usd`,{formatFn:r})}function r(t){if(t>=1e6)return e(t,2);if(t>=1e3){let n=Math.round(t/1e3)*1e3;return e(n,0)}return t===0?`0`:`<1K`}export{n as t};

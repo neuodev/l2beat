@@ -1,0 +1,1 @@
+import{f as e,t}from"./buildCompareUrl-D4XDcIcS.js";var n=`/layer2s/compare`;function r({metric:r=`tvs`,projectSlug:i}={}){return t(n,{projects:i?[i]:void 0,range:`1y`,charts:[e(r)]})}export{r as t};

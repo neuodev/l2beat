@@ -1,0 +1,1 @@
+import{t as e}from"./index-BzWKptsi.js";import{G as t,H as n,V as r}from"./SideNavLayout-BkbKX94L.js";import{t as i}from"./Clock-CCZYxvKX.js";var a=e();function o({content:e,className:o}){return(0,a.jsxs)(r,{children:[(0,a.jsx)(t,{className:o,children:(0,a.jsx)(i,{})}),(0,a.jsx)(n,{children:e})]})}export{o as t};

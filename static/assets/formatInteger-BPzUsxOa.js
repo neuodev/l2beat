@@ -1,0 +1,1 @@
+import{t as e}from"./formatNumber-DfLGMTVt.js";function t(t){return t>=1e3?e(t):t.toFixed(0)}export{t};

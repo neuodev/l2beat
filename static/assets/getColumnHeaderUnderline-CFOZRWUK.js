@@ -1,0 +1,1 @@
+import{qn as e}from"./SideNavLayout-BkbKX94L.js";function t(...t){return e(`relative before:absolute`,`before:right-0 before:left-3 before:h-0.5`,`before:bottom-0`,`before:rounded-t-full`,...t)}export{t};

@@ -1,0 +1,1 @@
+function e(e,t){if(e===t||t===0||e<.01)return 0;let n=e/t-1;return n===1/0||n===null||isNaN(n)?0:n}function t(e){let t=e*100;return t>=1e3?`>1K%`:t>=100?n(t,0)+`%`:t>=10?n(t,1)+`%`:n(t,2)+`%`}function n(e,t){return(Math.floor(e*10**t)/10**t).toFixed(t).slice(0,4)}export{t as n,e as t};
